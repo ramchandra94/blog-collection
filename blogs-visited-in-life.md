@@ -8,3 +8,5 @@
 * https://storage.googleapis.com/gweb-research2023-media/pubtools/2904.pdf
 * https://www.usenix.org/system/files/osdi25-pismenny.pdf
 * https://www.youtube.com/watch?v=x4K-ki_BLL0
+* https://www.youtube.com/watch?v=JmGfJok32Kw
+* https://lpc.events/event/2/contributions/99/attachments/98/116/lpc18_pres_af_xdp_perf-v3.pdf
