@@ -10,6 +10,9 @@
 * https://www.youtube.com/watch?v=JmGfJok32Kw
 * https://lpc.events/event/2/contributions/99/attachments/98/116/lpc18_pres_af_xdp_perf-v3.pdf
 
+# AWS Nitro Hardware details
+* https://www.youtube.com/watch?v=e8DVmwj3OEs
+
 # CPU Cache Coherence and False sharing
 * https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822
 
