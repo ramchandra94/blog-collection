@@ -9,6 +9,7 @@
 * https://www.youtube.com/watch?v=x4K-ki_BLL0
 * https://www.youtube.com/watch?v=JmGfJok32Kw
 * https://lpc.events/event/2/contributions/99/attachments/98/116/lpc18_pres_af_xdp_perf-v3.pdf
+* https://engineering.doit.com/advanced-networking-performance-on-a-ec2-linux-achieving-high-throughput-and-low-latency-85457294f822
 
 # AWS Nitro Hardware details
 * https://www.youtube.com/watch?v=e8DVmwj3OEs
