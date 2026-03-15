@@ -4,7 +4,6 @@
 # Performance engineering
 * https://open.substack.com/pub/systemdr/p/linux-troubleshooting-the-hidden?r=33j6t2&utm_medium=ios
 
-
 # Linux Networking
 * https://access.redhat.com/sites/default/files/attachments/20150325_network_performance_tuning.pdf
 * https://www.csl.cornell.edu/~zhiruz/pdfs/dagger-asplos2021.pdf
@@ -26,3 +25,5 @@
 
 * https://www.deep-kondah.com/on-the-complexity-of-synchronization-memory-barriers-locks-and-scalability/
 
+# Linux memory management
+* https://pdos.csail.mit.edu/~sbw/links/gorman_book.pdf
