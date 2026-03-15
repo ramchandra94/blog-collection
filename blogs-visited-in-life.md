@@ -20,3 +20,5 @@
 # Locks and Concurrent Programming
 * https://lwn.net/Articles/847973/#:~:text=cmpxchg()%20loads%20the%20value,it%20could%20be%20useful%20for.
 
+* https://www.deep-kondah.com/on-the-complexity-of-synchronization-memory-barriers-locks-and-scalability/
+
