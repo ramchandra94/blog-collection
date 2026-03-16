@@ -19,6 +19,7 @@
 
 # CPU Cache Coherence and False sharing
 * https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822
+* https://medium.com/@mike.anderson007/the-cache-clash-l1-l2-and-l3-in-cpus-2a21d61a0c6b
 
 # Locks and Concurrent Programming
 * https://lwn.net/Articles/847973/#:~:text=cmpxchg()%20loads%20the%20value,it%20could%20be%20useful%20for.
